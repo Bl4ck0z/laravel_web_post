@@ -1,0 +1,42 @@
+# Dependencias y módulos
+/vendor/
+/node_modules/
+
+# Configuraciones del entorno
+.env
+.env.backup
+.env.production
+
+# Archivos de compilación de frontend
+/public/hot
+/public/mix-manifest.json
+/public/test-output
+/public/test-results
+/public/reports
+/public/test-suites
+/public/build
+/public/storage
+
+# Claves y almacenamiento
+/storage/*.key
+/storage/pail
+
+# Archivos de caché
+.phpunit.cache
+.phpunit.result.cache
+.phpactor.json
+
+# Archivos del editor/IDE
+/.idea
+/.vscode
+/.fleet
+/.zed
+
+# Laravel Homestead
+Homestead.json
+Homestead.yaml
+
+# Archivos de log y debug
+npm-debug.log
+yarn-error.log
+auth.json

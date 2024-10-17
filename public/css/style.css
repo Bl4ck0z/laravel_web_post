@@ -1,0 +1,23 @@
+body {
+    background-color: #f9f9f9;
+}
+
+h1 {
+    color: #343a40;
+    font-weight: bold;
+    text-align: center;
+}
+
+.container {
+    padding-top: 20px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border: none;
+}
